@@ -27,7 +27,7 @@ const Sidebar = () => {
 
         <button className="flex items-center space-x-2 hover:text-white">
           <PlusCircleIcon className="h-5 w-7" />
-          <p>Create Playlist</p>
+          <p>Create Playlist </p>
         </button>
         <button className="flex items-center space-x-2 hover:text-white">
           <HeartIcon className="h-5 w-7" />
